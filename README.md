@@ -1,4 +1,4 @@
-# Github Acitivty CLI
+# Github Activity CLI
 A very simple CLI app built with java to fetch github user's recent public activity using github API...
 
 ## Features
